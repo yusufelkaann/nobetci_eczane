@@ -1,16 +1,9 @@
-# nobetci_eczane
+İzmir Night Pharmacies Locator
 
-A new Flutter project.
+Overview
+The İzmir Night Pharmacies Locator is an app designed to help residents and visitors in İzmir, Turkey, find pharmacies that are open at night. Whether it's an emergency or you simply need a late-night prescription refill, this app makes it easy to locate the nearest open pharmacy.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Real-time Data: The app provides updated information on pharmacies open during the night in İzmir.
+Search by District: Search for pharmacies based on the district or neighborhood within İzmir.
+Contact Information: Contact details for each pharmacy, including phone numbers and addresses, are readily available.
